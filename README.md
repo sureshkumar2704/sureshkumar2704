@@ -29,7 +29,7 @@
 <h3 align="left">My Activity: </h3>
 <p>
   <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=sureshkumar2704&show_icons=true&locale=en" alt="sureshkumar2704" /> &nbsp;&nbsp;&nbsp;
-<!-- <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sureshkumar2704&" alt="sureshkumar2704" />
+<!-- <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sureshkumar2704&" alt="sureshkumar2704" /> -->
 
 
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sureshkumar2704&bg_color=000000&color=ffffff&line=ff9300&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
