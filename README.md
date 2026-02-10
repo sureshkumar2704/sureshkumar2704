@@ -1,27 +1,29 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Suresh%20Kumar%20D&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20the%20Future%20with%20AI%20%26%20Code&descSize=18&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,50:f72585,100:4cc9f0&height=200&section=header&text=Suresh%20Kumar%20D&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Building%20the%20Future%20with%20AI%20and%20Code&descSize=18&descAlignY=55" width="100%"/>
 </div>
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7931A&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%8E%93+B.Tech+AI+%26+Data+Science+%40+RIT;%F0%9F%A4%96+Machine+Learning+%7C+Deep+Learning+%7C+Web+Dev;%F0%9F%92%A1+Turning+Data+into+Intelligence" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7931A&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🎯+AI+%26+Data+Science+Student;💻+Full+Stack+Developer;🤖+Machine+Learning+Enthusiast;🚀+Problem+Solver+%26+Innovator" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Profile Views & Trophies -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sureshkumar2704&label=Profile%20Views&color=F7931A&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sureshkumar2704&label=Profile%20Views&color=f72585&style=for-the-badge" alt="Profile Views" />
   &nbsp;
   <a href="https://github.com/sureshkumar2704?tab=followers">
-    <img src="https://img.shields.io/github/followers/sureshkumar2704?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/sureshkumar2704?label=Followers&style=for-the-badge&color=4cc9f0&logoColor=white" alt="Followers"/>
   </a>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/sureshkumar2704?label=Stars&style=for-the-badge&color=ffd60a" alt="Stars"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sureshkumar2704&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sureshkumar2704&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="Trophies" />
   </a>
 </p>
 
@@ -137,19 +139,19 @@ HOW TO USE:
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sureshkumar2704&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sureshkumar2704&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&ring_color=f72585&fire_color=f72585&currStreakLabel=f72585" alt="GitHub Stats" />
   &nbsp;
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sureshkumar2704&theme=algolia&hide_border=true" alt="Streak Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sureshkumar2704&theme=tokyonight&hide_border=true&ring=f72585&fire=f72585&currStreakLabel=f72585" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshkumar2704&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshkumar2704&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" alt="Top Languages" />
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sureshkumar2704&bg_color=0d1117&color=58a6ff&line=f7931a&point=ffffff&area=true&hide_border=true&area_color=f7931a40" width="95%" alt="Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sureshkumar2704&bg_color=1a1b27&color=38bdae&line=f72585&point=4cc9f0&area=true&hide_border=true&area_color=f7258540" width="98%" alt="Contribution Graph"/>
   </a>
 </p>
 
@@ -178,7 +180,7 @@ HOW TO USE:
 
 <!-- LeetCode Stats Card -->
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/SureshKumar27?theme=dark&font=Fira+Code&ext=contest&border=0" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/SureshKumar27?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode Stats"/>
 </p>
 
 ---
@@ -204,7 +206,7 @@ HOW TO USE:
 
 <!-- Quote -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 ---
@@ -249,9 +251,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 3. Run the workflow manually once from the Actions tab
+4. Uncomment the Snake Animation section above
 -->
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,50:f72585,100:4cc9f0&height=120&section=footer" width="100%"/>
 </div>
