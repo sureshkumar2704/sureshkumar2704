@@ -1,48 +1,257 @@
-<h1 align="center">Hi 👋, I'm Suresh Kumar D </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshkumar2704&label=Profile%20views&color=0e75b6&style=flat" alt="sureshkumar2704" /> </p>
+<!-- Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Suresh%20Kumar%20D&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20the%20Future%20with%20AI%20%26%20Code&descSize=18&descAlignY=55" width="100%"/>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sureshkumar2704" alt="sureshkumar2704" /></a> </p>
-
-
-- 🌱 Currently Learning: Machine Learning (🤖✨)
-- 🚀 Thrilled About: Exploring Artificial Intelligence algorithms (🧠🔍)
-
-<h3 align="left">Connect with me:</h3>
-<p >
-<a href="https://www.linkedin.com/in/suresh-kumar-372579284/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.kaggle.com/sureshkumardj"><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png" alt="external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo"/>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7931A&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%8E%93+B.Tech+AI+%26+Data+Science+%40+RIT;%F0%9F%A4%96+Machine+Learning+%7C+Deep+Learning+%7C+Web+Dev;%F0%9F%92%A1+Turning+Data+into+Intelligence" alt="Typing SVG" />
+  </a>
 </p>
+
+<!-- Profile Views & Trophies -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sureshkumar2704&label=Profile%20Views&color=F7931A&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
+  <a href="https://github.com/sureshkumar2704?tab=followers">
+    <img src="https://img.shields.io/github/followers/sureshkumar2704?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sureshkumar2704&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+  </a>
+</p>
+
+---
+
+<!-- About Me -->
+<h2>🧑‍💻 About Me</h2>
+
+- 🎓 **B.Tech in AI & Data Science** @ *Rajalakshmi Institute of Technology*
+- 🌱 Currently deep-diving into **Machine Learning & Deep Learning**
+- 🚀 Passionate about **Artificial Intelligence**, **Neural Networks**, & **Web Development**
+- 🧠 Love exploring how **AI can solve real-world problems**
+- ⚡ Fun Fact: *I debug code faster than I make coffee* ☕
+- 💬 Ask me about **Python, ML, DL, Web Dev**
+
+---
+
+<!-- Tech Stack -->
+<h2>🛠️ Tech Stack & Tools</h2>
+
+<details open>
+<summary><b>👨‍💻 Languages</b></summary>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sureshkumar2704&show_icons=true&locale=en&layout=compact" alt="sureshkumar2704" /> </p>
-<br><br><br><br><br>
-<h3 align="left">My Activity: </h3>
 <p>
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=sureshkumar2704&show_icons=true&locale=en" alt="sureshkumar2704" /> &nbsp;&nbsp;&nbsp;
-<!-- <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sureshkumar2704&" alt="sureshkumar2704" /> -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+</details>
 
+<details open>
+<summary><b>🤖 AI / ML / DL</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+</details>
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sureshkumar2704&bg_color=000000&color=ffffff&line=ff9300&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<details open>
+<summary><b>🌐 Web Development</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+</details>
 
- </p>
+<details open>
+<summary><b>🔧 Tools & Platforms</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+</details>
 
-<h3>Coding skills: </h3>
+---
 
-[![SkillRack](https://img.shields.io/badge/SkillRack-Profile-blue?style=flat-square)](http://www.skillrack.com/faces/resume.xhtml?id=474552&key=ba52ab3a3e3e91edbdd99960389da26679293afc)  
+<!-- Featured Projects (Commented for future use) -->
+<!--
+<h2>🚀 Featured Projects</h2>
 
-[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/sureshkumar27)
+<p align="center">
 
+  <a href="https://github.com/sureshkumar2704/YOUR-REPO-NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sureshkumar2704&repo=YOUR-REPO-NAME&theme=algolia&hide_border=true" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sureshkumar2704/YOUR-REPO-NAME-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sureshkumar2704&repo=YOUR-REPO-NAME-2&theme=algolia&hide_border=true" />
+  </a>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/SureshKumar27?theme=dark&font=Molle&ext=contest)
+</p>
 
+<p align="center">
 
+  <a href="https://github.com/sureshkumar2704/YOUR-REPO-NAME-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sureshkumar2704&repo=YOUR-REPO-NAME-3&theme=algolia&hide_border=true" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sureshkumar2704/YOUR-REPO-NAME-4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sureshkumar2704&repo=YOUR-REPO-NAME-4&theme=algolia&hide_border=true" />
+  </a>
+
+</p>
+
+HOW TO USE:
+  1. Replace YOUR-REPO-NAME, YOUR-REPO-NAME-2, etc. with your actual repository names
+  2. Uncomment this entire block by removing the opening "< ! - -" and closing "- - >" lines
+  3. Add or remove project cards as needed
+-->
+
+---
+
+<!-- GitHub Stats -->
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sureshkumar2704&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats" />
+  &nbsp;
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sureshkumar2704&theme=algolia&hide_border=true" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshkumar2704&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sureshkumar2704&bg_color=0d1117&color=58a6ff&line=f7931a&point=ffffff&area=true&hide_border=true&area_color=f7931a40" width="95%" alt="Activity Graph"/>
+  </a>
+</p>
+
+---
+
+<!-- Coding Profiles -->
+<h2>💻 Coding Profiles</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/SureshKumar27">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/sureshkumar27">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="http://www.skillrack.com/faces/resume.xhtml?id=474552&key=ba52ab3a3e3e91edbdd99960389da26679293afc">
+    <img src="https://img.shields.io/badge/SkillRack-1A73E8?style=for-the-badge&logo=bookstack&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.kaggle.com/sureshkumardj">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+</p>
+
+<!-- LeetCode Stats Card -->
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/SureshKumar27?theme=dark&font=Fira+Code&ext=contest&border=0" alt="LeetCode Stats"/>
+</p>
+
+---
+
+<!-- Connect With Me -->
+<h2>🤝 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/suresh-kumar-372579284/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:sureshkumar@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.kaggle.com/sureshkumardj">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Dev Quote"/>
+</div>
+
+---
+
+<!-- Snake Animation (Uncomment after setting up GitHub Actions - see instructions below) -->
+<!--
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sureshkumar2704/sureshkumar2704/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sureshkumar2704/sureshkumar2704/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/sureshkumar2704/sureshkumar2704/output/github-snake.svg" />
+  </picture>
+</p>
+-->
+
+<!--
+🐍 SNAKE ANIMATION SETUP:
+To enable the snake animation above, create a GitHub Actions workflow in your profile repo:
+1. Create file: .github/workflows/snake.yml
+2. Paste this content:
+
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: sureshkumar2704
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+3. Run the workflow manually once from the Actions tab
+-->
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+</div>
