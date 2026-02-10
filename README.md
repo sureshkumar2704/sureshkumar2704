@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7931A&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🎯+AI+%26+Data+Science+Student;💻+Full+Stack+Developer;🤖+Machine+Learning+Enthusiast;🚀+Problem+Solver+%26+Innovator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7931A&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%F0%9F%8E%AF+AI+%26+Data+Science+Student;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%A4%96+Machine+Learning+Enthusiast;%F0%9F%9A%80+Problem+Solver+%26+Innovator" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sureshkumar2704&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=sureshkumar2704&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="Trophies" />
   </a>
 </p>
 
@@ -135,17 +135,30 @@ HOW TO USE:
 
 ---
 
+<!--
+  💡 SELF-HOST TIP: If stats cards break again (503 errors), deploy your own:
+  1. Fork https://github.com/anuraghazra/github-readme-stats
+  2. Deploy to Vercel (free)
+  3. Replace the URLs below with your-vercel-app.vercel.app
+-->
+
 <!-- GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sureshkumar2704&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&ring_color=f72585&fire_color=f72585&currStreakLabel=f72585" alt="GitHub Stats" />
+  <a href="https://github.com/sureshkumar2704">
+    <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sureshkumar2704&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  </a>
   &nbsp;
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sureshkumar2704&theme=tokyonight&hide_border=true&ring=f72585&fire=f72585&currStreakLabel=f72585" alt="Streak Stats" />
+  <a href="https://github.com/sureshkumar2704">
+    <img width="48%" src="https://streak-stats.demolab.com/?user=sureshkumar2704&theme=tokyonight&hide_border=true&ring=f72585&fire=f72585&currStreakLabel=f72585" alt="Streak Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshkumar2704&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" alt="Top Languages" />
+  <a href="https://github.com/sureshkumar2704">
+    <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sureshkumar2704&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" alt="Top Languages" />
+  </a>
 </p>
 
 <!-- Activity Graph -->
@@ -189,7 +202,7 @@ HOW TO USE:
 <h2>🤝 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/suresh-kumar-372579284/">
+  <a href="https://www.linkedin.com/in/suresh-kumar-dr/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
