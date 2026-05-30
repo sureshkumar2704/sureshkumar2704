@@ -4,7 +4,7 @@
 <!--                    HOLOGRAPHIC HEADER                       -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:0a0a2e,60:1a1a4e,100:0d0221&height=300&section=header&text=SURESH%20KUMAR%20D&fontSize=72&fontColor=00fff9&animation=twinkling&fontAlignY=40&desc=◈%20AI%20%26%20Data%20Science%20Engineer%20◈&descSize=20&descAlignY=65&descColor=f72585&stroke=00fff9&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,50:1a1a4e,100:0d0221&height=300&section=header&text=SURESH%20KUMAR%20D&fontSize=72&fontColor=00fff9&animation=twinkling&fontAlignY=40&desc=AI%20%26%20Data%20Science%20Engineer&descSize=20&descAlignY=65&descColor=f72585&stroke=00fff9&strokeWidth=2" width="100%"/>
 
 <!-- Animated typing with cyberpunk feel -->
 <a href="https://git.io/typing-svg">
@@ -15,13 +15,13 @@
 
 <!-- Social proof badges with glow effect -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=sureshkumar2704&label=◈+PROFILE+VIEWS&color=00fff9&style=for-the-badge&labelColor=0d0221" />
+  <img src="https://komarev.com/ghpvc/?username=sureshkumar2704&label=PROFILE+VIEWS&color=00fff9&style=for-the-badge&labelColor=0d0221" />
   &nbsp;
   <a href="https://github.com/sureshkumar2704?tab=followers">
-    <img src="https://img.shields.io/github/followers/sureshkumar2704?label=◈+FOLLOWERS&style=for-the-badge&color=f72585&labelColor=0d0221&logoColor=white" />
+    <img src="https://img.shields.io/github/followers/sureshkumar2704?label=FOLLOWERS&style=for-the-badge&color=f72585&labelColor=0d0221&logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/github/stars/sureshkumar2704?label=◈+STARS&style=for-the-badge&color=ffd60a&labelColor=0d0221" />
+  <img src="https://img.shields.io/github/stars/sureshkumar2704?label=STARS&style=for-the-badge&color=ffd60a&labelColor=0d0221" />
 </p>
 
 <!-- Trophy shelf -->
@@ -274,4 +274,4 @@ Problem Solving     ████████████████████
 <!--                    FOOTER WAVE                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:1a1a4e,60:0a0a2e,100:0d0221&height=150&section=footer&text=◈%20KEEP%20BUILDING%20◈&fontSize=28&fontColor=00fff9&animation=twinkling&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,50:1a1a4e,100:0d0221&height=150&section=footer&text=KEEP%20BUILDING&fontSize=28&fontColor=00fff9&animation=twinkling&fontAlignY=60" width="100%"/>
