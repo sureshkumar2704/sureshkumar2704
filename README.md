@@ -4,7 +4,7 @@
 <!--                    HOLOGRAPHIC HEADER                       -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:0a0a2e,60:1a1a4e,100:0d0221&height=300&section=header&text=SURESH%20KUMAR%20D&fontSize=72&fontColor=00fff9&animation=twinkling&fontAlignY=50"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:fffbeb,50:fff1f2,100:fffbeb&height=300&section=header&text=SURESH%20KUMAR%20D&fontSize=72&fontColor=ff85a2&animation=twinkling&fontAlignY=50&fontName=Righteous"/>
 
 <!-- Animated typing with cyberpunk feel -->
 <a href="https://git.io/typing-svg">
