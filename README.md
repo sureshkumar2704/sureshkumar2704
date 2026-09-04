@@ -177,10 +177,10 @@ Problem Solving     ████████████████████
 </div>
 
 <!-- Activity Graph — full width, dramatic -->
-<div align="center">
+<!-- <div align="center">
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sureshkumar2704&bg_color=0d0221&color=00fff9&line=f72585&point=ffffff&area=true&hide_border=true&area_color=f7258530&radius=8" width="98%" alt="Contribution Graph"/>
-</div>
+</div> -->
 
 ---
 
